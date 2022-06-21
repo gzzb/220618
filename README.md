@@ -1,6 +1,6 @@
 # prepare data
-large sample dataset: prepare_large.py
-small sample dataset: prepare_small.py
+1. large sample dataset: prepare_large.py
+2. small sample dataset: prepare_small.py
 # fitting model
 1. run GA_ctrl.py
 2. run test_ctrl.py
